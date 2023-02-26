@@ -1,0 +1,7 @@
+schedule
+ccxt
+pandas
+numpy
+tornado
+wxpy
+psutil
